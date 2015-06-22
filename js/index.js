@@ -13,7 +13,7 @@
         }, true);
         drag.init(screen);
 
-        faces = document.getElementById("scene").getElementsByTagName("img");
+        faces = document.getElementById("scene").getElementsByTagName("div");
         rotation = {
             ex: 0,
             ey: 0,

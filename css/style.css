@@ -21,7 +21,6 @@ body {
   cursor: pointer;
   background: #000;
   user-select: none;
-  overflow: hidden;
 }
 
 #scene {
@@ -45,7 +44,7 @@ body {
   text-align: center;
 }
 
-#scene img {
+#scene div {
   position: absolute;
   visibility: hidden;
   margin: -300px -500px;
